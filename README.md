@@ -31,4 +31,10 @@ After performing the anaylsis the second time, the overall results changed only 
   - Score by School Type did not change at all.
 
 ## Summary
+Four changes that can be noted after the updated analysis:
+- The total number of students at Thomas High School
+- The total number of students in the district
+- The school summary % Overall Passing
+- The addition of NaN for the 9th graders at Thomas High School
 
+Due to the fact that the total number of students in the district changed relative to the total number of students at Thomas High school, there was very little affect on the % Overall Passing for the district with the addition of the NaNs.
