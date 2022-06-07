@@ -1,8 +1,8 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
-An intial anaylsis was performed on a school district's standardized test scores, as well as the school's funding. The test scores were used in a variety of models to compare the how the schools performed across grade level, based on school's budget, size of the school and type of school (charter or district).  Once the initial analysis was complete, the school board discovered Thomas High school ninth grade test scores had be altered, resulting in the removale of math and reading scores and the analysis had to be repeated after the removal of the altered scores. 
+An initial analysis was performed on a school district's standardized test scores, as well as the school's funding. The test scores were used in a variety of models to compare the how the schools performed across grade level, based on school's budget, size of the school and type of school (charter or district).  Once the initial analysis was complete, the school board discovered Thomas High school ninth grade test scores had be altered, resulting in the removal of math and reading scores and the analysis had to be repeated after the removal of the altered scores. 
 ## Results
-After performing the anaylsis the second time, the overall results changed only a small amount.  This was to be expected, as there were only a small number of ninth grader's from Thomas High school compared to the overall number of students in the dataset. Below is a comparison of how the dataset looked from the initial analysis to the updated anaylsis:
+After performing the analysis the second time, the overall results changed only a small amount.  This was to be expected, as there were only a small number of ninth grader's from Thomas High school compared to the overall number of students in the dataset. Below is a comparison of how the dataset looked from the initial analysis to the updated analysis:
   - District summary did not change at all.
   <img width="992" alt="Screen Shot 2022-06-05 at 1 29 42 PM" src="https://user-images.githubusercontent.com/105119531/172062944-2ee0035c-ed0f-449d-a254-307e80a5b61a.png">
 
@@ -11,12 +11,12 @@ After performing the anaylsis the second time, the overall results changed only 
   Intial analysis
   <img width="1022" alt="Screen Shot 2022-06-05 at 1 32 10 PM" src="https://user-images.githubusercontent.com/105119531/172062952-4131748b-2cf6-49fd-93df-471fcbf5b616.png">
 
-  Updated analyis
+  Updated analysis
   <img width="1010" alt="Screen Shot 2022-06-05 at 1 31 39 PM" src="https://user-images.githubusercontent.com/105119531/172062953-e788666b-b9c2-4498-b339-783d566ea435.png">
  
   - Replacing the scores for Thomas High school ninth grader's had very little affect, as Thomas High School remained in the top 5 performing schools in second place.
 
-  Intial analysis
+  Initial analysis
   <img width="1023" alt="Screen Shot 2022-06-05 at 1 49 07 PM" src="https://user-images.githubusercontent.com/105119531/172063680-cbcd1932-7029-4634-95f2-a66db2ff809c.png">
 
   Updated analysis
